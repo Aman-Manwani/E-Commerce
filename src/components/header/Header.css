@@ -1,0 +1,21 @@
+.cart-icon{
+    width: 40px;
+    height: 40px;
+    margin: 10px 0;
+}
+
+.inner-nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    align-items: center;
+}
+
+.navbar{
+    background-color: black;
+    color: white;
+}
+
+.logo{
+    font-size: 40px;
+}
