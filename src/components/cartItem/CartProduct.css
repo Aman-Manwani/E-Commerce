@@ -5,6 +5,9 @@
     width: 50%;
     margin-left: 2rem;
     margin-top: 20px;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 20px;
+    justify-content: space-between;
 }
 
 .cartitem_img{
