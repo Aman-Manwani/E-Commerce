@@ -1,0 +1,28 @@
+.productDesc_image{
+    width: 40%;
+    height: 700px;
+    object-fit: contain;
+}
+
+.desc_div{
+    display: flex;
+    justify-content: space-around;
+}
+
+.info_div{
+    display: flex;
+    flex-direction: column;
+    row-gap: 2.5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.desc_Pname{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.desc_Pprice{
+    font-size: 40px;
+    font-weight: 900;
+}

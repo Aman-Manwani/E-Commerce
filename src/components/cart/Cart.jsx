@@ -34,7 +34,7 @@ const Cart = () => {
             </div>
           </div> :
           <div className='empty_cart'>
-            <p className='empty_cart_head'>Your Cart Is Empty Go Grab Some Items</p>
+            <p className='empty_cart_head'>Your Cart Is Empty, Go Grab Some Items</p>
             <Link to='/'><button className='btn'>Continue Shopping</button></Link>
           </div>
         }
